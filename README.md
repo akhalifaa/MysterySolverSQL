@@ -1,4 +1,4 @@
-# MysterySolverSQL
+# MysterySolverSQL 🕵️‍♀️
 #### The problem given was that a a theft occured on a certain date and street name. Given was a database file with 10 tables of varying columns related to the different aspects of the crime.
 #### For example, some of the tables given were: suspect interviews, flights out of the city, ATM transactions, security footage and more...
 #### The goal was to strategically navigate all the tables and join them in order to figure out the thief, accomplice and city of escape.
